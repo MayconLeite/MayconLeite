@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Maycon Leite and I'm a developer back-end. I'm from Brazil and currently working how Freelancer.
-I am dedicating myself to the Javascript ecosystem, using React, React native and Node.js
+My name is Maycon Leite and I'm a developer, i'm from Brazil and currently working how Freelancer.
+Focused on learning to solve problems, whatever the programming language
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
