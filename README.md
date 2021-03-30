@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Maycon Leite and I'm a developer, i'm from Brazil and currently working how Freelancer.
-Focused on learning to solve problems!
+<h5> Meu nome é Maycon Leite, sou desenvolvedor e tenho uma busca pessoal constante de aperfeiçoamento, estudando novas metodologias e tecnologias!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
